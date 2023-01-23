@@ -1,0 +1,66 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner-container{
+    background-color: #C9C8CA;
+}
+.banner-colum{
+    background-color: #8E8D8E;
+}
+.navbar-container{
+    top: 0;
+    background-color: #111319;
+    position: sticky;
+    z-index: 2;
+}
+.about-container{
+    background-color: #0ABBBE;
+}
+.education-container{
+    background-color: #E7E6E8;
+}
+.bg-redtype{
+    background-color: #EC7D78;
+}
+
+.bg-redtype:hover{
+   color: black!important;
+}
+
+
+.redtype-color{
+    color: #FB8580;
+}
+.circle{
+    background-color: #FB8580;
+    width: 150px;
+    height: 150px;
+
+    border-radius: 50%;
+}
+
+.project-container{
+background-color: #2DB1E1;
+}
+.form-container{
+    background-color: #424657;
+}
+.inner-form{
+
+    background-color: #52586F;
+}
+
+.footer{
+
+    background-color: #1D7190;
+}
+
+.circle{
+    width: 60px; height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: aliceblue;
+    font-size: 40px;
+    text-align-canter;
+}
